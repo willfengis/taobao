@@ -1,0 +1,586 @@
+1502433974321	geckodriver	INFO	geckodriver 0.18.0
+1502433974375	geckodriver	INFO	Listening on 127.0.0.1:50317
+1502433977144	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502433979905	Marionette	INFO	Listening on port 59805
+1502433980438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502606349050	geckodriver	INFO	geckodriver 0.18.0
+1502606349114	geckodriver	INFO	Listening on 127.0.0.1:44669
+1502606351993	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502606354203	Marionette	INFO	Listening on port 38248
+1502606354843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502606355754	geckodriver	INFO	geckodriver 0.18.0
+1502606355758	geckodriver	INFO	Listening on 127.0.0.1:40307
+1502606357449	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502606359868	Marionette	INFO	Listening on port 34591
+1502606360227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502856132404	geckodriver	INFO	geckodriver 0.18.0
+1502856132419	geckodriver	INFO	Listening on 127.0.0.1:56059
+1502856133597	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502856134683	Marionette	INFO	Listening on port 48598
+1502856134912	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502856189400	geckodriver	INFO	geckodriver 0.18.0
+1502856189407	geckodriver	INFO	Listening on 127.0.0.1:36331
+1502856190615	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502856191718	Marionette	INFO	Listening on port 39309
+1502856191899	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502883360568	geckodriver	INFO	geckodriver 0.18.0
+1502883360578	geckodriver	INFO	Listening on 127.0.0.1:42881
+1502883361909	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502883363247	Marionette	INFO	Listening on port 50330
+1502883363486	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1502883722045	geckodriver	INFO	geckodriver 0.18.0
+1502883722050	geckodriver	INFO	Listening on 127.0.0.1:51766
+1502883722242	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502883723358	Marionette	INFO	Listening on port 59825
+1502883723555	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502883976551	geckodriver	INFO	geckodriver 0.18.0
+1502883976555	geckodriver	INFO	Listening on 127.0.0.1:37169
+1502883976820	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502883978498	Marionette	INFO	Listening on port 57576
+1502883978695	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502884038846	geckodriver	INFO	geckodriver 0.18.0
+1502884038850	geckodriver	INFO	Listening on 127.0.0.1:49976
+1502884040069	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502884041395	Marionette	INFO	Listening on port 40496
+1502884041578	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn1.child1/memoryActor12
+1502884202637	geckodriver	INFO	geckodriver 0.18.0
+1502884202642	geckodriver	INFO	Listening on 127.0.0.1:56548
+1502884202914	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502884204030	Marionette	INFO	Listening on port 54416
+1502884204228	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502884338842	geckodriver	INFO	geckodriver 0.18.0
+1502884338845	geckodriver	INFO	Listening on 127.0.0.1:55215
+1502884339045	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502884340193	Marionette	INFO	Listening on port 55103
+1502884340392	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+[Child 44226] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 44226] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 44226] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502884403163	geckodriver	INFO	geckodriver 0.18.0
+1502884403169	geckodriver	INFO	Listening on 127.0.0.1:38557
+1502884404339	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502884405486	Marionette	INFO	Listening on port 52396
+1502884405670	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://textlink.simba.taobao.com/?name=tbhs&cna=OiAbEuydVwACAXaQhScVnCeT&nn=&count=13&pid=430266_1006&_ksTS=1502884435545_71&callback=jsonp72, line 2: ReferenceError: jsonp72 is not defined
+JavaScript error: https://ald.taobao.com/recommend2.htm?appId=20140506002%2C20140506001%2C20140506002%2C20140506001%2C201602246%2C07085%2C07085%2C03014%2C201608180&_ksTS=1502884435641_91&callback=jsonp92, line 2: ReferenceError: jsonp92 is not defined
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502884489277	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 44441] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 44441] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502884731098	geckodriver	INFO	geckodriver 0.18.0
+1502884731101	geckodriver	INFO	Listening on 127.0.0.1:49728
+1502884733622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502884734729	Marionette	INFO	Listening on port 41892
+1502884734924	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502884811949	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502884913428	geckodriver	INFO	geckodriver 0.18.0
+1502884913432	geckodriver	INFO	Listening on 127.0.0.1:39354
+1502884913624	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502884914698	Marionette	INFO	Listening on port 42731
+1502884914895	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502885134035	geckodriver	INFO	geckodriver 0.18.0
+1502885134040	geckodriver	INFO	Listening on 127.0.0.1:44863
+1502885135369	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502885136832	Marionette	INFO	Listening on port 40942
+1502885137084	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502886097446	geckodriver	INFO	geckodriver 0.18.0
+1502886097449	geckodriver	INFO	Listening on 127.0.0.1:39679
+1502886097625	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502886098745	Marionette	INFO	Listening on port 53948
+1502886098924	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502886174630	geckodriver	INFO	geckodriver 0.18.0
+1502886174637	geckodriver	INFO	Listening on 127.0.0.1:52884
+1502886175803	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502886176875	Marionette	INFO	Listening on port 51564
+1502886177072	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Child 46022] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 46022] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502888140457	geckodriver	INFO	geckodriver 0.18.0
+1502888140460	geckodriver	INFO	Listening on 127.0.0.1:36760
+1502888140628	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502888141717	Marionette	INFO	Listening on port 58381
+1502888141916	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+[Child 46909] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 46909] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502888374124	geckodriver	INFO	geckodriver 0.18.0
+1502888374129	geckodriver	INFO	Listening on 127.0.0.1:48200
+1502888375355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502888376523	Marionette	INFO	Listening on port 57294
+1502888376732	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+[Child 47403] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 47403] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502888479403	geckodriver	INFO	geckodriver 0.18.0
+1502888479408	geckodriver	INFO	Listening on 127.0.0.1:58985
+1502888480604	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502888481900	Marionette	INFO	Listening on port 59674
+1502888482096	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+[Child 47813] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 47813] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502889427513	geckodriver	INFO	geckodriver 0.18.0
+1502889427516	geckodriver	INFO	Listening on 127.0.0.1:57149
+1502889427767	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502889428879	Marionette	INFO	Listening on port 60471
+1502889429060	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Child 48126] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 48126] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502891526207	geckodriver	INFO	geckodriver 0.18.0
+1502891526211	geckodriver	INFO	Listening on 127.0.0.1:52441
+1502891527416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502891528512	Marionette	INFO	Listening on port 42517
+1502891528697	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://acc.alicdn.com/tfscom/TB1ZuwzOVXXXXcaapXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1ZuwzOVXXXXcaapXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Child 49158] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 49158] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 49158] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+1502891758404	geckodriver	INFO	geckodriver 0.18.0
+1502891758408	geckodriver	INFO	Listening on 127.0.0.1:45794
+1502891759617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502891760725	Marionette	INFO	Listening on port 52997
+1502891760920	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://acc.alicdn.com/tfscom/TB1opT0MVXXXXavaXXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.0.9/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+1502892185136	geckodriver	INFO	geckodriver 0.18.0
+1502892185139	geckodriver	INFO	Listening on 127.0.0.1:54631
+1502892186331	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502892187540	Marionette	INFO	Listening on port 51087
+1502892187725	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.5/index-min.js,tb/tracker/4.0.1/p/index/index.js,kg/tb-nav/2.4.1/index-min.js,secdev/sufei_data/3.0.8/index.js, line 6: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+JavaScript error: https://acc.alicdn.com/tfscom/TB1opT0MVXXXXavaXXXdutXFXXX.js, line 4: TypeError: MBOX[a] is undefined
+JavaScript error: https://acc.alicdn.com/tfscom/TB1Hl7WOVXXXXXWXVXXdutXFXXX.js, line 5: TypeError: MBOX[a] is undefined
+[Child 49930] WARNING: pipe error (3): Connection reset by peer: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 322
+[Child 49930] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+[Child 49930] ###!!! ABORT: Aborting on channel error.: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/glue/MessageChannel.cpp, line 2152
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.1.1/index.js, line 1: Error: WebGL: Failed to create WebGL context: WebGL creation failed: 
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Error during native OpenGL init.
+* Exhausted GL driver caps.
+* Exhausted GL driver options.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 106: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 106: TypeError: this._recipeManager is null
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 106: TypeError: this._recipeManager is null
+[Child 49636] WARNING: pipe error: 断开的管道: file /builddir/build/BUILD/firefox-52.2.0/firefox-52.2.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
